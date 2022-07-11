@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @brandynewanek
 - 👀 I’m interested in Deep Learning and Algo Trading
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Student Project
-- 📫 How to reach me ...
+- 🌱 I teach Data Science, https://preply.com/en/tutor/2088150
+- 💞️ Stay updated at, www.facebook.com/datascienceteacherbrandyn
+- 📫 Share you dataart, www.facebook.com/groups/1038628576726134
 
 <!---
-brandynewanek/brandynewanek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+brandynewanek/brandynewanek 
 --->
